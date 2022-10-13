@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hawa rayi</string>
+    <string name="no_user">Tekst jazin</string>
+    <string name="logo">Sizdin qalanizdagi pagoda</string>
+    <string name="hint_text">Qalanin ati</string>
+    <string name="btn_text">Pagodani biliw</string>
+</resources>
